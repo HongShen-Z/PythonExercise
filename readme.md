@@ -2,7 +2,7 @@ Python3 练习题 100例
 ====================
 
 
-## [题目 1](https://github.com/woider/PythonExercise/blob/master/case_00/sub_1.py) ##
+## [题目 1](https://github.com/HongShen-Z/PythonExercise/blob/master/case_00/sub_1.py) ##
 
 有四个数字：1、2、3、4，能组成多少个互不相同且无重复数字的三位数？各是多少？
 
