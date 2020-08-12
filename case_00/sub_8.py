@@ -3,7 +3,7 @@
 '''
 
 for i in range(1, 10):
-    for j in range(1, i + 1):
-        exp = '%d * %d = %d' % (i, j, i * j)
-        print(exp, end='\t')
-    print()
+    for j in range(1, 10):
+        temp = '{0}*{1}={2}'.format(i, j, i*j)
+        print(temp, end='\t')
+    print('\n')
