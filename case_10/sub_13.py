@@ -12,3 +12,10 @@ for i in range(100, 1000):
         arr.append(i)
 
 print('水仙花数：' + str(arr))
+
+
+# daff = []
+# for i in range(100, 1000):
+#     if i == (i//100)**3 + (i//10%10)**3 + (i%10)**3:
+#         daff.append(i)
+# print(daff)
