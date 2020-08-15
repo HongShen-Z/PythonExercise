@@ -16,3 +16,17 @@ exp = ' + '.join(map(str, l))
 res = sum(l)
 
 print('%s = %d' % (exp, res))
+
+
+'''
+a = input('Input a')
+n = int(input('Input n'))
+result = 0
+exp = []
+
+for i in range(1, n+1):
+    result += int(a*i)
+    exp.append(a*i)
+exp = ' + '.join(exp)
+print('{} = {}'.format(exp, result))
+'''
