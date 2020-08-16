@@ -15,3 +15,13 @@ for y in range(SIZE - 1, -SIZE, -1):
         else:
             print(HIDE, end='')
     print()
+
+
+'''
+size = 5
+print()
+for i in range(1, 2*size, 2):
+    print((' *'*i).center(4*size))
+for j in range(2*size-3, 0, -2):
+    print((' *'*j).center(4*size))
+'''
